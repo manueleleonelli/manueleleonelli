@@ -6,9 +6,7 @@ Part of my research is in developing R packages for statistical analysis. Here's
 - [stagedtrees](https://github.com/gherardovarando/extrememix) for structural learning of stratified staged trees
 - [bnmonitor](https://github.com/gherardovarando/bnmonitor) for sensitivity analysis in Bayesian netowrks
 
-I'm [Mauro Leonelli](https://www.mauroleonelli.com)
 
-![Mauro Leonelli](/mauro.jpg "Mauro speeking at EURECOM Alumni meeting")
 
 ### Some facts about me...
 ---
@@ -20,6 +18,6 @@ I'm [Mauro Leonelli](https://www.mauroleonelli.com)
 
 - 👯 I love my litte Corgi Azzurra!!!
 
-![Mauro Leonelli](/azzurra.jpg "Mauro speeking at EURECOM Alumni meeting")
+![Mauro Leonelli](/azzurra.JPG)
 
 
