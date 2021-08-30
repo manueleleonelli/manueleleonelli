@@ -18,6 +18,6 @@ Part of my research is in developing R packages for statistical analysis. Here's
 
 - 👯 I love my litte Corgi Azzurra!!!
 
-![Mauro Leonelli](/azzurra.JPG)
+![Mauro Leonelli](/azzurra1.JPG)
 
 
