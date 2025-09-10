@@ -11,7 +11,7 @@ Part of my research is in developing R packages for statistical analysis. Here's
 
 ### Some facts about me...
 ---
-- 🔭 I’m currently working as **Assistant Professor** at **[IE University](https://www.ie.edu/)**
+- 🔭 I’m currently working as **Associate Professor** at **[IE University](https://www.ie.edu/)**
 
 - 🎓 I hold a PhD in **Statistics** from **[University of Warwick](https://warwick.ac.uk/)** 
 
